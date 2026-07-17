@@ -65,8 +65,9 @@ same license as the repository you are contributing to (see each repository's
 
 - **GitHub Issues & Discussions** — Per-repository questions, bugs, and design
   discussion.
-- **Slack** — Day-to-day discussion and questions.
-- **Community calls** — Regular monthly meetings open to users, contributors, and maintainers.
+- **Slack & community calls** — Day-to-day discussion, questions, and regular
+  meetings open to users, contributors, and maintainers. See
+  [COMMUNITY.md](COMMUNITY.md) for how to join Slack and the meeting schedule.
 
 Maintainers and the areas they focus on are listed in
 [MAINTAINER.md](MAINTAINER.md).

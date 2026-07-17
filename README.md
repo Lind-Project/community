@@ -20,6 +20,7 @@ isolation backends.
 - **Report a security issue** — Do not open a public issue; follow
   [SECURITY.md](SECURITY.md).
 - **Ask questions** — Reach us through GitHub issues and discussions on the
-  relevant repository, on Slack, or during our community calls.
+  relevant repository, or on Slack and our community calls — see
+  [COMMUNITY.md](COMMUNITY.md) for how to join.
 
 [org]: https://github.com/Lind-Project
