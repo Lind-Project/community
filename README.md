@@ -17,6 +17,8 @@ isolation backends.
 - **Contribute** — Start with [CONTRIBUTING.md](CONTRIBUTING.md), then find a
   repository in the [Lind-Project organization][org]. New contributors can look
   for issues labeled `good first issue`.
+- **See where the project is headed** — [ROADMAP.md](ROADMAP.md) lays out the
+  current state and planned direction across Lind repositories.
 - **Report a security issue** — Do not open a public issue; follow
   [SECURITY.md](SECURITY.md).
 - **Ask questions** — Reach us through GitHub issues and discussions on the
