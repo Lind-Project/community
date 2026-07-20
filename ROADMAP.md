@@ -4,14 +4,14 @@ This roadmap describes the current state and planned direction of the
 [Lind-Project](https://github.com/Lind-Project) across its repositories.
 Timeframes are approximate.
 
-## 1. Supported host environments
+## 1. Supported host environments (where Lind runs)
 
 - **Now:** lind-wasm (Lind with the Wasm backend) runs in a Docker container on
   Linux, macOS, and Windows, and natively on Linux.
 - **~6mo:** Add support for running in an SGX enclave. Improve quick start for
   the environment.
 
-## 2. Isolation backends
+## 2. Isolation backends (how Lind can isolate the code running inside of it)
 
 - **Now:** The Wasm backend (via Wasmtime) is fully realized and runs
   application suites as complex as a full LAMP stack. We are factoring the
