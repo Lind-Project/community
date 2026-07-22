@@ -3,8 +3,7 @@
 Join [#lind](https://secure-systems-lab.slack.com/archives/CBKAGSC9Z) on the
 [NYU Secure Systems Lab Slack](https://secure-systems-lab.slack.com/) to receive
 updates about the project and upcoming events, or dial in on a community
-meeting! Details are listed below and on
-[Google Calendar](https://meet.google.com/fsk-amgr-oxz).
+meeting! 
 
 ## Meetings
 
@@ -15,7 +14,8 @@ contributors can choose individual project meetings based on their interests.
 
 | Meeting | Focus | Schedule |
 | --- | --- | --- |
-| **[Lind-core](https://meet.google.com/fsk-amgr-oxz)** | Foundational system maintenance | Weekly on Monday 14:00 - 15:00 ET |
+| **[Lind Community Meeting](https://meet.google.com/vzh-awnk-uaq)** | Covers all topics related to Lind | Monthly on the second Friday 10:00 - 11:00 ET |
+| **[Lind-core](https://meet.google.com/fsk-amgr-oxz)** | Foundational system maintenance | Weekly on Monday 14:00 - 14:30 ET |
 | JOT/TriSeal | Individual project meeting | Weekly on Monday 13:30 - 14:00 ET |
 | Lind-Kernel-MPK | Individual project meeting | Weekly on Monday 14:30 - 15:00 ET |
 | Lind decomposing libraries | Individual project meeting | Weekly on Wednesday 14:00 - 14:30 ET |
