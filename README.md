@@ -25,4 +25,10 @@ isolation backends.
   relevant repository, or on Slack and our community calls — see
   [COMMUNITY.md](COMMUNITY.md) for how to join.
 
+## Licensing
+
+Lind's governance is based on the [Community Specification model and license](https://github.com/CommunitySpecification/Community_Specification) from the [Joint Development Foundation](https://www.jointdevelopment.org).
+
+Specifications are provided under the [Community Specification License 1.0](COMMUNITY_SPECIFICATION_LICENSE.md), and source code under Apache-2.0 unless a repository says otherwise. See [LICENSING.md](LICENSING.md) for the full policy, [SCOPE.md](SCOPE.md) for the project scope, and [NOTICES.md](NOTICES.md) for license acceptances, withdrawals, and patent exclusion notices. Contributions are accepted under the [Contributor License Agreement](CONTRIBUTOR_LICENSE_AGREEMENT.md).
+
 [org]: https://github.com/Lind-Project

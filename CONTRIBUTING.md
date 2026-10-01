@@ -57,9 +57,24 @@ We use a standard GitHub fork-and-pull-request workflow:
 
 ### Licensing
 
-By contributing, you agree that your contributions will be licensed under the
-same license as the repository you are contributing to (see each repository's
-`LICENSE` file).
+Lind follows the Community Specification model. By making a contribution to any
+Lind-Project repository, you agree to the
+[Contributor License Agreement](CONTRIBUTOR_LICENSE_AGREEMENT.md).
+
+- **Specifications** are licensed under the
+  [Community Specification License 1.0](COMMUNITY_SPECIFICATION_LICENSE.md).
+- **Source code** is licensed under the license in the repository's `LICENSE`
+  file (Apache-2.0 unless the repository says otherwise).
+- **Data and other documentation** are licensed as described in
+  [LICENSING.md](LICENSING.md).
+
+All source code contributions must carry a
+[Developer Certificate of Origin](https://developercertificate.org) sign-off.
+Add it to each commit with `git commit -s`, which appends a line like:
+
+```
+Signed-off-by: Your Name <you@example.com>
+```
 
 ## Communication
 
