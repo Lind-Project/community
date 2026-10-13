@@ -1,11 +1,8 @@
 # Lind Project Governance
 
-Lind uses a flattened maintainer model. Maintainers share responsibility
-for the health and direction of the project. Individual maintainers may
-have primary areas of expertise, but project ownership is collective.
+Lind uses a flattened maintainer model. Maintainers share responsibility for the health and direction of the project. Individual maintainers may have primary areas of expertise, but project ownership is collective.
 
-The current list of maintainers and their focus areas is kept in
-[MAINTAINER.md](MAINTAINER.md).
+The current list of maintainers and their focus areas is kept in [MAINTAINER.md](MAINTAINER.md).
 
 ## Project Roles
 
@@ -53,7 +50,25 @@ Maintainer status may be reviewed after six months without project participation
 
 A maintainer may be removed for sustained inactivity (see above) or for cause, such as a violation of the [Code of Conduct](CODE_OF_CONDUCT.md) or repeated actions contrary to the Project's goals. Removal for cause requires approval from a majority of active maintainers, and the maintainer in question does not vote. The project will attempt to raise concerns with the maintainer privately before initiating removal.
 
+## Specification development
+
+Lind specifications are developed under the [Community Specification License 1.0](COMMUNITY_SPECIFICATION_LICENSE.md), within the bounds set by [SCOPE.md](SCOPE.md). This section is the governance policy referenced by that license.
+
+**Draft.** Participants may submit issues and pull requests to any Lind-Project repository at any point. They are reviewed and merged following [CONTRIBUTING.md](CONTRIBUTING.md). Each updated version of a Lind specification following the merging of a pull request is a "Draft Specification".
+
+**Approval.** Once the maintainers believe a Draft Specification has achieved its objectives, they may progress it to "Approved Specification" status:
+
+- The maintainers announce that version of the Draft Specification as a candidate for "Approved Specification" status on the project's community channels (see [COMMUNITY.md](COMMUNITY.md)) and start a two-week review period.
+- During the review period, participants may raise any issues regarding the Draft Specification. Such issues are considered and resolved in the ordinary course.
+- The maintainers may extend the review period, but will not shorten it to less than two weeks.
+- After the review period, and upon approval by a majority of active maintainers, the Draft Specification becomes an "Approved Specification".
+
+**Publication.** The maintainers publish each Approved Specification in a publicly accessible location, together with the terms under which it is made available.
+
+**Submission to standards bodies.** No Draft Specification or Approved Specification may be submitted to another standards development organization without approval from a majority of active maintainers. The Contributors that developed that specification agree to grant the copyright rights necessary to make those submissions.
+
+**Non-confidentiality.** Information disclosed in connection with any project activity, including meetings, contributions, and submissions, is not confidential, regardless of any markings or statements to the contrary.
+
 ## Contact
 
-Maintainers can be reached through GitHub issues and discussions. Sensitive security matters should be reported through the process
-described in [SECURITY.md](SECURITY.md).
+Maintainers can be reached through GitHub issues and discussions. Sensitive security matters should be reported through the process described in [SECURITY.md](SECURITY.md).
